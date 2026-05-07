@@ -30,7 +30,7 @@ body {
 /* ── Page Shell ───────────────────────────────────────── */
 .page-shell {
   position: relative;
-  overflow-x: hidden;
+  overflow: clip;
   min-height: 100vh;
 }
 
