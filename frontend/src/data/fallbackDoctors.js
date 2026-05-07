@@ -1,0 +1,167 @@
+export const fallbackDoctors = [
+  {
+    name: "Dr. Chakradhar Reddy Putta",
+    department: "INTERNAL MEDICINE",
+    designation: "Consultant General Physician",
+    experience: "5+ Years",
+    qualification: "MBBS, DNB (General Medicine)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-chakradhar-reddy-putta-general-physician-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1776502298421-Dr.%20Chakradhar%20Reddy%20Putta.jpeg",
+  },
+  {
+    name: "Dr. Prasad Neelam",
+    department: "SURGICAL GASTROENTEROLOGY",
+    designation: "Senior Consultant Surgical Gastroenterologist & Liver Transplant Surgeon",
+    experience: "8+ Years",
+    qualification: "MBBS, MS (General Surgery), MCh (Surgical Gastroenterology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-prasad-neelam-surgical-gastroenterologist-miyapur-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774675907366-Dr.%20Prasad%20Neelam.webp",
+  },
+  {
+    name: "Dr. Ramesh Vasa",
+    department: "NEPHROLOGY",
+    designation: "Senior Consultant - Nephrologist / Renal Specialist",
+    experience: "23+ Years",
+    qualification: "MBBS, MD (General Medicine), DM (Nephrology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-ramesh-vasa-nephrologist-miyapur-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774676241462-Dr.%20Ramesh%20Vasa.webp",
+  },
+  {
+    name: "Dr. Rohith Reddy",
+    department: "ANAESTHESIA AND PAIN MANAGEMENT",
+    designation: "Consultant Anaesthesiologist",
+    experience: "15+ Years",
+    qualification: "MBBS, DNB (Anaesthesiology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-rohith-reddy-anaesthesiologist/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774674239039-Dr.%20Rohith%20Reddy.webp",
+  },
+  {
+    name: "Dr. K Arun Kumar",
+    department: "CARDIAC SCIENCES",
+    designation: "Interventional Cardiologist",
+    experience: "14+ Years",
+    qualification: "MBBS, MD (Internal Medicine), DM (Cardiology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-k-arun-kumar-expert-interventional-cardiologist/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774678850677-Dr.%20K%20Arun%20Kumar.webp",
+  },
+  {
+    name: "Dr. Nagarjuna Doppalapudi",
+    department: "INTERNAL MEDICINE",
+    designation: "Consultant General & Laparoscopic Surgeon",
+    experience: "13+ Years",
+    qualification: "MBBS, DNB (General Surgery), FIAGES",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-chakradhar-reddy-putta-general-physician-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774671642089-Dr.%20Nagarjuna%20Doppalapudi.webp",
+  },
+  {
+    name: "Dr. Akhila Sunder",
+    department: "ORTHOPAEDICS",
+    designation: "Senior Consultant - Orthopaedic, Robotic Joint Replacement & Sports Medicine Specialist",
+    experience: "9+ Years",
+    qualification: "MBBS, MS (Orthopaedics), FIJR, FIAS",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-akhila-sunder-orthopaedic-surgeon-miyapur-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774670703463-Dr.%20Akhila%20Sunder.webp",
+  },
+  {
+    name: "Dr. T Prem Sunder",
+    department: "DERMATOLOGY, COSMETIC CARE & PLASTIC SURGERY",
+    designation: "Consultant Plastic, Reconstructive and Cosmetic Surgeon",
+    experience: "20+ Years",
+    qualification: "MBBS, MS (General Surgery), MCh (Plastic & Reconstructive Surgery)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-t-prem-sunder-plastic-reconstructive-cosmetic-surgeon/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774671318196-Dr.%20T%20Prem%20Sunder.webp",
+  },
+  {
+    name: "Dr. Devupalli Sravan",
+    department: "CARDIAC SCIENCES",
+    designation: "Consultant Interventional Cardiologist",
+    experience: "17+ Years",
+    qualification: "MBBS, DNB (Respiratory Medicine), DM (Cardiology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-devupalli-sravan-interventional-cardiologist/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1776494468180-Dr.%20Devupalli%20Sravan.webp",
+  },
+  {
+    name: "Dr. Allada Venkata Srikar",
+    department: "INTERNAL MEDICINE",
+    designation: "Consultant - General Physician",
+    experience: "14+ Years",
+    qualification: "MBBS, MD - General Medicine (KMC Manipal)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-allada-venkata-srikar-general-physician-miyapur-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1773128250700-Dr.%20Allada%20Venkata%20Srikar.webp",
+  },
+  {
+    name: "Dr. Raviteja Ramisetty",
+    department: "UROLOGY",
+    designation: "Consultant Urologist & Andrologist",
+    experience: "12+ Years",
+    qualification: "MBBS, MS (General Surgery), MCh (Urology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-raviteja-ramisetty-urologist-andrologist-miyapur-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774676927325-Dr.%20Raviteja%20Ramisetty.webp",
+  },
+  {
+    name: "Dr. Chandra Sekhar Reddy",
+    department: "ANAESTHESIA AND PAIN MANAGEMENT",
+    designation: "Consultant Anaesthesiologist & Pain Management Specialist",
+    experience: "10+ Years",
+    qualification: "MBBS, MD (Anaesthesiology), DNB (Anaesthesiology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-chandra-sekhar-reddy-anaesthesiologist-pain-specialist/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774673993317-Dr.%20Chandra%20Sekhar%20Reddy.webp",
+  },
+  {
+    name: "Dr. P. Harinandan Reddy",
+    department: "MEDICAL GASTROENTEROLOGY",
+    designation: "Consultant Hepatologist, Medical Gastroenterologist & Interventional Endoscopist",
+    experience: "5+ Years",
+    qualification: "MBBS, MD (Internal Medicine), DrNB (Medical Gastroenterology)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-p-harinandan-reddy-gastroenterologist-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1776340194137-Dr.%20P.%20Harinandan%20Reddy.webp",
+  },
+  {
+    name: "Dr. Rajendar Byshetty",
+    department: "ONCOLOGY",
+    designation: "Consultant Surgical Oncologist",
+    experience: "8+ Years",
+    qualification: "MBBS, MS (General Surgery), DNB, MCh (Surgical Oncology), FMAS",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-rajendar-byshetty-surgical-oncologist-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774675592298-Dr.%20Rajendar%20Byshetty.webp",
+  },
+  {
+    name: "Dr. Hareesh Ayyawar",
+    department: "ANAESTHESIA AND PAIN MANAGEMENT",
+    designation: "Senior Consultant - Critical Care Medicine & Intensivist",
+    experience: "10+ Years",
+    qualification: "MBBS, MD (Anaesthesia & Intensive Care Medicine), DM (Critical Care Medicine)",
+    location: "Miyapur, Hyderabad",
+    url: "/dr-hareesh-ayyawar-critical-care-specialist-hyderabad/",
+    image:
+      "https://tx-hospital-doctor-images.s3.ap-south-2.amazonaws.com/doctors/1774673442024-male.webp",
+  },
+];
